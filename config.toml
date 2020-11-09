@@ -1,0 +1,15 @@
+baseURL = "https://ke.shoogle.net/kenya"
+languageCode = "en"
+title = "Kenya"
+theme = "ln-base"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "kenya"
