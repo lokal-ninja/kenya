@@ -1,4 +1,4 @@
 ---
-title: "LC WAIKIKI"
+title: "LC Waikiki"
 url: /nairobi/lc-waikiki/
 ---
