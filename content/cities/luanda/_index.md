@@ -1,6 +1,6 @@
 ---
 title: Luanda
 url: /luanda/
-latitude: 0.30770000000000003
-longitude: 34.058600000000006
+latitude: -0.8
+longitude: 34.2166
 ---
