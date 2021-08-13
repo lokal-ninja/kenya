@@ -1,5 +1,5 @@
 ---
 title: "Genesis Supermarket"
 url: /kagumo/genesis-supermarket/
-shop: greengrocer
+shop: supermarket
 ---
