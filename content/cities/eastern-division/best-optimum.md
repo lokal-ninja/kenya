@@ -1,5 +1,5 @@
 ---
 title: "Best Optimum"
 url: /eastern-division/best-optimum/
-shop: shop
+shop: beverages
 ---

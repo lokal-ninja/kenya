@@ -1,6 +1,6 @@
 ---
 title: Kajiado
 url: /kajiado/
-latitude: -1.4110440000000002
-longitude: 36.6857065
+latitude: -1.84592
+longitude: 36.789178
 ---
