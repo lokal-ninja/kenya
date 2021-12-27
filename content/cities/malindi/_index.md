@@ -1,6 +1,6 @@
 ---
 title: Malindi
 url: /malindi/
-latitude: -3.2165987
-longitude: 40.116593300000005
+latitude: -3.22
+longitude: 40.117
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ruiru
 url: /ruiru/
-latitude: 
-longitude: 
+latitude: -1.142
+longitude: 36.968
 ---

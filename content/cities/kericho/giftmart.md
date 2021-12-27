@@ -1,5 +1,5 @@
 ---
 title: "Giftmart"
 url: /kericho/giftmart/
-shop: supermarket
+shop: Supermarkt
 ---

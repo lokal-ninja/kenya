@@ -1,6 +1,6 @@
 ---
 title: Embulbul
 url: /embulbul/
-latitude: -1.3350294
-longitude: 36.6756133
+latitude: -1.333
+longitude: 36.675
 ---

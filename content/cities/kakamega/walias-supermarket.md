@@ -1,5 +1,5 @@
 ---
 title: "Walias Supermarket"
 url: /kakamega/walias-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

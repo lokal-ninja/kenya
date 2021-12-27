@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /tala/total/
-shop: convenience
+shop: Lebensmittel
 ---

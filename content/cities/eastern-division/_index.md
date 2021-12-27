@@ -1,6 +1,6 @@
 ---
 title: Eastern Division
 url: /eastern-division/
-latitude: 
-longitude: 
+latitude: 0.466
+longitude: 34.096
 ---

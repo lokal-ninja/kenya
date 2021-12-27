@@ -1,6 +1,6 @@
 ---
 title: Riara Ridge
 url: /riara-ridge/
-latitude: 
-longitude: 
+latitude: -1.161
+longitude: 36.729
 ---

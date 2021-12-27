@@ -1,5 +1,5 @@
 ---
 title: "Vitafoam"
 url: /nairobi/vitafoam/
-shop: bed
+shop: Betten
 ---

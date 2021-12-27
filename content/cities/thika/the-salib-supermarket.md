@@ -1,5 +1,5 @@
 ---
 title: "the salib supermarket"
 url: /thika/the-salib-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beyond Fruits"
 url: /nairobi/beyond-fruits/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

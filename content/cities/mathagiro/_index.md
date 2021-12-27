@@ -1,6 +1,6 @@
 ---
 title: Mathagiro
 url: /mathagiro/
-latitude: 
-longitude: 
+latitude: 0.05
+longitude: 37.153
 ---

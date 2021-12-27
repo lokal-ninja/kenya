@@ -1,6 +1,6 @@
 ---
 title: Kenya
 url: /kenya/
-latitude: 1.4419683
-longitude: 38.4313975
+latitude: -4.597
+longitude: 39.108
 ---

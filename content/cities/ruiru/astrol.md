@@ -1,5 +1,5 @@
 ---
 title: "ASTROL"
 url: /ruiru/astrol/
-shop: tyres
+shop: Reifen
 ---

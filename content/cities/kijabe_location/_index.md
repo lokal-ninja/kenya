@@ -1,6 +1,6 @@
 ---
 title: kijabe_location
 url: /kijabe_location/
-latitude: 
-longitude: 
+latitude: -0.924
+longitude: 36.611
 ---

@@ -1,6 +1,6 @@
 ---
 title: Embakasi
 url: /embakasi/
-latitude: -1.3264891
-longitude: 36.8934556
+latitude: -1.289
+longitude: 36.9
 ---

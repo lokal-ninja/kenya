@@ -1,6 +1,6 @@
 ---
 title: Malaba
 url: /malaba/
-latitude: 0.6407313
-longitude: 34.262956200000005
+latitude: 0.636
+longitude: 34.282
 ---

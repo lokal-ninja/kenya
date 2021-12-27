@@ -1,6 +1,6 @@
 ---
 title: Mathagiro Town
 url: /mathagiro-town/
-latitude: 
-longitude: 
+latitude: 0.054
+longitude: 37.171
 ---

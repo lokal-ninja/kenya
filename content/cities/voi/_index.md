@@ -1,6 +1,6 @@
 ---
 title: Voi
 url: /voi/
-latitude: -3.3976842
-longitude: 38.584327
+latitude: -3.393
+longitude: 38.563
 ---

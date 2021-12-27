@@ -1,5 +1,5 @@
 ---
 title: "Weldplus"
 url: /mlolongo/weldplus/
-shop: hardware
+shop: Eisenwaren
 ---

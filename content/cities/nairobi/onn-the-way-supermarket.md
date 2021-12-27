@@ -1,5 +1,5 @@
 ---
 title: "Onn The Way Supermarket"
 url: /nairobi/onn-the-way-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Githiga
 url: /githiga/
-latitude: 
-longitude: 
+latitude: -1.084
+longitude: 36.726
 ---

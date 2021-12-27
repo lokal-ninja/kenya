@@ -1,5 +1,5 @@
 ---
 title: "Tuskys"
 url: /kilifi/tuskys/
-shop: supermarket
+shop: Supermarkt
 ---

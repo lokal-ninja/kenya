@@ -1,5 +1,5 @@
 ---
 title: "Hurlingham Grocer"
 url: /nairobi/hurlingham-grocer/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

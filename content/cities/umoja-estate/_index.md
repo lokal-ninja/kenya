@@ -1,6 +1,6 @@
 ---
 title: Umoja Estate
 url: /umoja-estate/
-latitude: 
-longitude: 
+latitude: -1.285
+longitude: 36.894
 ---

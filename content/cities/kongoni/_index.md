@@ -1,6 +1,6 @@
 ---
 title: Kongoni
 url: /kongoni/
-latitude: -0.8187208
-longitude: 36.2593801
+latitude: -0.821
+longitude: 36.263
 ---

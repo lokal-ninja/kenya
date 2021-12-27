@@ -1,6 +1,6 @@
 ---
 title: Nyeri
 url: /nyeri/
-latitude: -0.4192962
-longitude: 36.9517005
+latitude: -0.445
+longitude: 36.985
 ---

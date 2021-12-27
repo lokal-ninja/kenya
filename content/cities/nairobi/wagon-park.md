@@ -1,5 +1,5 @@
 ---
 title: "Wagon Park"
 url: /nairobi/wagon-park/
-shop: car
+shop: Autohaus
 ---

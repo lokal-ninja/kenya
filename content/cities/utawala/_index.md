@@ -1,6 +1,6 @@
 ---
 title: Utawala
 url: /utawala/
-latitude: 
-longitude: 
+latitude: -1.279
+longitude: 36.967
 ---

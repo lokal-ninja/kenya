@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /nairobi/bata/
-shop: shoes
+shop: Schuhe
 ---

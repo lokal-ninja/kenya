@@ -1,5 +1,5 @@
 ---
 title: "Otomart"
 url: /nairobi/otomart/
-shop: supermarket
+shop: Supermarkt
 ---

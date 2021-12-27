@@ -1,5 +1,5 @@
 ---
 title: "Outlook Limited"
 url: /nairobi/outlook-limited/
-shop: car
+shop: Autohaus
 ---

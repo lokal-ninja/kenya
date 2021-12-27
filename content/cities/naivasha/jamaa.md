@@ -1,5 +1,5 @@
 ---
 title: "Jamaa"
 url: /naivasha/jamaa/
-shop: supermarket
+shop: Supermarkt
 ---

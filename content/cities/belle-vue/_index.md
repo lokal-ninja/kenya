@@ -1,6 +1,6 @@
 ---
 title: Belle Vue
 url: /belle-vue/
-latitude: 
-longitude: 
+latitude: -0.142
+longitude: 36.711
 ---

@@ -1,6 +1,6 @@
 ---
 title: Litein
 url: /litein/
-latitude: -0.5833
-longitude: 35.1833
+latitude: -0.587
+longitude: 35.189
 ---

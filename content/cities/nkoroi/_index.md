@@ -1,6 +1,6 @@
 ---
 title: Nkoroi
 url: /nkoroi/
-latitude: 
-longitude: 
+latitude: -1.407
+longitude: 36.708
 ---

@@ -1,6 +1,6 @@
 ---
 title: Njiru
 url: /njiru/
-latitude: -1.2539022000000002
-longitude: 36.9343299
+latitude: -1.25
+longitude: 36.953
 ---

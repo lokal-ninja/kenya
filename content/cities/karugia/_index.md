@@ -1,6 +1,6 @@
 ---
 title: Karugia
 url: /karugia/
-latitude: 
-longitude: 
+latitude: -0.893
+longitude: 37.121
 ---

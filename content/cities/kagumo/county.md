@@ -1,5 +1,5 @@
 ---
 title: "County"
 url: /kagumo/county/
-shop: supermarket
+shop: Supermarkt
 ---

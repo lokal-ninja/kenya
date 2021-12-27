@@ -1,6 +1,6 @@
 ---
 title: Kirigiti
 url: /kirigiti/
-latitude: 
-longitude: 
+latitude: -1.173
+longitude: 36.842
 ---

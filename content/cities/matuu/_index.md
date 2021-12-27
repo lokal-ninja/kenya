@@ -1,6 +1,6 @@
 ---
 title: Matuu
 url: /matuu/
-latitude: -1.1438281000000001
-longitude: 37.5484852
+latitude: -1.145
+longitude: 37.543
 ---

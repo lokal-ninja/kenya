@@ -1,6 +1,6 @@
 ---
 title: Bungoma
 url: /bungoma/
-latitude: 
-longitude: 
+latitude: 0.564
+longitude: 34.561
 ---

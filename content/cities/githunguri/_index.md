@@ -1,6 +1,6 @@
 ---
 title: Githunguri
 url: /githunguri/
-latitude: -1.0565221
-longitude: 36.7783493
+latitude: -1.057
+longitude: 36.778
 ---

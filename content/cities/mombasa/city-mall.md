@@ -1,5 +1,5 @@
 ---
 title: "City Mall"
 url: /mombasa/city-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

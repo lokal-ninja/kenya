@@ -1,5 +1,5 @@
 ---
 title: "John Deere"
 url: /narok/john-deere/
-shop: trade
+shop: Baustoffe
 ---

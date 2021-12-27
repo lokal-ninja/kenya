@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /malindi/total/
-shop: convenience
+shop: Lebensmittel
 ---

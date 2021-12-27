@@ -1,6 +1,6 @@
 ---
 title: Embu
 url: /embu/
-latitude: -0.5376699
-longitude: 37.4583949
+latitude: -0.535
+longitude: 37.451
 ---

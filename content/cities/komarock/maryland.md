@@ -1,5 +1,5 @@
 ---
 title: "Maryland"
 url: /komarock/maryland/
-shop: supermarket
+shop: Supermarkt
 ---

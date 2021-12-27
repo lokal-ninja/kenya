@@ -1,5 +1,5 @@
 ---
 title: "Radiance Spa And Salon"
 url: /nairobi/radiance-spa-and-salon/
-shop: beauty
+shop: Kosmetik
 ---

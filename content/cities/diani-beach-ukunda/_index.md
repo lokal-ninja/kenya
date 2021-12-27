@@ -1,6 +1,6 @@
 ---
 title: Diani Beach / Ukunda
 url: /diani-beach-ukunda/
-latitude: 
-longitude: 
+latitude: -4.308
+longitude: 39.577
 ---

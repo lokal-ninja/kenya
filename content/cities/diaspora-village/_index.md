@@ -1,6 +1,6 @@
 ---
 title: Diaspora Village
 url: /diaspora-village/
-latitude: 
-longitude: 
+latitude: -1.725
+longitude: 36.839
 ---

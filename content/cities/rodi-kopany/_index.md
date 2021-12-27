@@ -1,6 +1,6 @@
 ---
 title: Rodi Kopany
 url: /rodi-kopany/
-latitude: 
-longitude: 
+latitude: -0.625
+longitude: 34.501
 ---

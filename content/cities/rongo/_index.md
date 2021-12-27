@@ -1,6 +1,6 @@
 ---
 title: Rongo
 url: /rongo/
-latitude: -0.7576606
-longitude: 34.603644200000005
+latitude: -0.748
+longitude: 34.596
 ---

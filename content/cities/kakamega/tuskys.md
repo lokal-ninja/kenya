@@ -1,5 +1,5 @@
 ---
 title: "Tuskys"
 url: /kakamega/tuskys/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Uplands
 url: /uplands/
-latitude: 
-longitude: 
+latitude: -1.054
+longitude: 36.632
 ---

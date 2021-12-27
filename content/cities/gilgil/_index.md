@@ -1,6 +1,6 @@
 ---
 title: Gilgil
 url: /gilgil/
-latitude: 
-longitude: 
+latitude: -0.526
+longitude: 36.331
 ---

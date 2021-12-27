@@ -1,5 +1,5 @@
 ---
 title: "Peflo Centre"
 url: /kiambu/peflo-centre/
-shop: hardware
+shop: Eisenwaren
 ---

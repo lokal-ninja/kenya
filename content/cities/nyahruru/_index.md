@@ -1,6 +1,6 @@
 ---
 title: Nyahruru
 url: /nyahruru/
-latitude: 
-longitude: 
+latitude: -0.057
+longitude: 36.391
 ---

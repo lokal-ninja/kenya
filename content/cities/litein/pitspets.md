@@ -1,5 +1,5 @@
 ---
 title: "PitsPets"
 url: /litein/pitspets/
-shop: pet
+shop: Tiere
 ---

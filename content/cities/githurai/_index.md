@@ -1,6 +1,6 @@
 ---
 title: Githurai
 url: /githurai/
-latitude: 
-longitude: 
+latitude: -1.206
+longitude: 36.894
 ---

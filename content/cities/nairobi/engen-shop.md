@@ -1,5 +1,5 @@
 ---
 title: "Engen Shop"
 url: /nairobi/engen-shop/
-shop: shop
+shop: Allgemein
 ---

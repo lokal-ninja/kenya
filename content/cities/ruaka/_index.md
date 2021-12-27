@@ -1,6 +1,6 @@
 ---
 title: Ruaka
 url: /ruaka/
-latitude: -1.205646
-longitude: 36.784457100000004
+latitude: -1.207
+longitude: 36.786
 ---

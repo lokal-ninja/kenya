@@ -1,6 +1,6 @@
 ---
 title: Nanyuki
 url: /nanyuki/
-latitude: 0.01403
-longitude: 37.074632
+latitude: 0.015
+longitude: 37.075
 ---

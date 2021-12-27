@@ -1,6 +1,6 @@
 ---
 title: Lutonyi
 url: /lutonyi/
-latitude: 
-longitude: 
+latitude: 0.278
+longitude: 34.737
 ---

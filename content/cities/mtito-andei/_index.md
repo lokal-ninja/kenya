@@ -1,6 +1,6 @@
 ---
 title: Mtito Andei
 url: /mtito-andei/
-latitude: -2.6893166
-longitude: 38.1682147
+latitude: -2.693
+longitude: 38.166
 ---

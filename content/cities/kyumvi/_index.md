@@ -1,6 +1,6 @@
 ---
 title: Kyumvi
 url: /kyumvi/
-latitude: 
-longitude: 
+latitude: -1.537
+longitude: 37.135
 ---

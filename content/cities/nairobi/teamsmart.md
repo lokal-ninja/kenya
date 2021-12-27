@@ -1,5 +1,5 @@
 ---
 title: "TEAMSMART"
 url: /nairobi/teamsmart/
-shop: mall
+shop: Einkaufszentrum
 ---

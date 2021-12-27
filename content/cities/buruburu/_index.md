@@ -1,6 +1,6 @@
 ---
 title: Buruburu
 url: /buruburu/
-latitude: 
-longitude: 
+latitude: -1.279
+longitude: 36.878
 ---

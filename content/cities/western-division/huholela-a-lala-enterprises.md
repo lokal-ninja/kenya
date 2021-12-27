@@ -1,5 +1,5 @@
 ---
 title: "Huholela A lala Enterprises"
 url: /western-division/huholela-a-lala-enterprises/
-shop: supermarket
+shop: Supermarkt
 ---

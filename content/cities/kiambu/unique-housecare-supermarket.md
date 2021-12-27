@@ -1,5 +1,5 @@
 ---
 title: "Unique Housecare SuperMarket"
 url: /kiambu/unique-housecare-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

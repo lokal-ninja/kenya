@@ -1,6 +1,6 @@
 ---
 title: Webuye
 url: /webuye/
-latitude: 0.6076280000000001
-longitude: 34.768775600000005
+latitude: 0.607
+longitude: 34.77
 ---

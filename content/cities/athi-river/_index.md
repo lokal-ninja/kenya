@@ -1,6 +1,6 @@
 ---
 title: Athi River
 url: /athi-river/
-latitude: -1.4481149
-longitude: 36.971587
+latitude: -1.479
+longitude: 36.958
 ---

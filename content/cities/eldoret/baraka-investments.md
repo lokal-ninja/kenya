@@ -1,5 +1,5 @@
 ---
 title: "Baraka Investments"
 url: /eldoret/baraka-investments/
-shop: mall
+shop: Einkaufszentrum
 ---

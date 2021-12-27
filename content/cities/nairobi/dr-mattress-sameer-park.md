@@ -1,5 +1,5 @@
 ---
 title: "Dr. Mattress - Sameer Park"
 url: /nairobi/dr-mattress-sameer-park/
-shop: bed
+shop: Betten
 ---

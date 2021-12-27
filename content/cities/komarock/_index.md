@@ -1,6 +1,6 @@
 ---
 title: Komarock
 url: /komarock/
-latitude: 
-longitude: 
+latitude: -1.265
+longitude: 36.909
 ---

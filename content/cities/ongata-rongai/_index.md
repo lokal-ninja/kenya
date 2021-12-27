@@ -1,6 +1,6 @@
 ---
 title: Ongata Rongai
 url: /ongata-rongai/
-latitude: -1.395968
-longitude: 36.752010600000006
+latitude: -1.397
+longitude: 36.753
 ---

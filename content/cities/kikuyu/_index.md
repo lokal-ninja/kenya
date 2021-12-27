@@ -1,6 +1,6 @@
 ---
 title: Kikuyu
 url: /kikuyu/
-latitude: 
-longitude: 
+latitude: -1.261
+longitude: 36.71
 ---
