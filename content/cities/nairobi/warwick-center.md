@@ -1,5 +1,5 @@
 ---
 title: "Warwick Center"
 url: /nairobi/warwick-center/
-shop: Einkaufszentrum
+shop: mall
 ---

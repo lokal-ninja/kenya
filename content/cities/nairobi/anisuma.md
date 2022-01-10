@@ -1,5 +1,5 @@
 ---
 title: "Anisuma"
 url: /nairobi/anisuma/
-shop: Elektronik
+shop: electronics
 ---

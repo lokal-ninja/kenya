@@ -1,5 +1,5 @@
 ---
 title: "Tuskys Ongata Rongai"
 url: /ongata-rongai/tuskys-ongata-rongai/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kingeero Shopping Centre"
 url: /kiambu/kingeero-shopping-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

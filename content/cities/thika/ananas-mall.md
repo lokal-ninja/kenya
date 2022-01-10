@@ -1,5 +1,5 @@
 ---
 title: "Ananas Mall"
 url: /thika/ananas-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

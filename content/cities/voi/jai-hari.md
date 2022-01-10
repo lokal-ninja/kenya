@@ -1,5 +1,5 @@
 ---
 title: "Jai Hari"
 url: /voi/jai-hari/
-shop: Supermarkt
+shop: supermarket
 ---

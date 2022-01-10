@@ -1,5 +1,5 @@
 ---
 title: "Browns Cheese"
 url: /limuru/browns-cheese/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

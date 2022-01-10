@@ -1,5 +1,5 @@
 ---
 title: "Shoppers Paradise Plaza"
 url: /nakuru/shoppers-paradise-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

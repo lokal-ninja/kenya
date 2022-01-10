@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /nairobi/carrefour/
-shop: Supermarkt
+shop: supermarket
 ---

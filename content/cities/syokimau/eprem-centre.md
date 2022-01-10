@@ -1,5 +1,5 @@
 ---
 title: "Eprem Centre"
 url: /syokimau/eprem-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

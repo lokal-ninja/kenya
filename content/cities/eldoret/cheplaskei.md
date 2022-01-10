@@ -1,5 +1,5 @@
 ---
 title: "Cheplaskei"
 url: /eldoret/cheplaskei/
-shop: Einkaufszentrum
+shop: mall
 ---

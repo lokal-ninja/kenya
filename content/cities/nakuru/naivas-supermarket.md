@@ -1,5 +1,5 @@
 ---
 title: "Naivas Supermarket"
 url: /nakuru/naivas-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

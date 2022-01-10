@@ -1,5 +1,5 @@
 ---
 title: "Nike Two Rivers"
 url: /nairobi/nike-two-rivers/
-shop: Schuhe
+shop: shoes
 ---

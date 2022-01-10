@@ -1,5 +1,5 @@
 ---
 title: "ABC Place"
 url: /nairobi/abc-place/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Automobile Warehouse Ltd"
 url: /nakuru/automobile-warehouse-ltd/
-shop: Autohaus
+shop: car
 ---

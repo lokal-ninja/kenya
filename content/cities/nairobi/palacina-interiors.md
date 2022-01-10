@@ -1,5 +1,5 @@
 ---
 title: "Palacina Interiors"
 url: /nairobi/palacina-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

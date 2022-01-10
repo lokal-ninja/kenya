@@ -1,5 +1,5 @@
 ---
 title: "Chiknik Distributors"
 url: /nairobi/chiknik-distributors/
-shop: Supermarkt
+shop: supermarket
 ---

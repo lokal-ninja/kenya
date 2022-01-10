@@ -1,5 +1,5 @@
 ---
 title: "Maasai Mall"
 url: /rongai/maasai-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oasis"
 url: /malindi/oasis/
-shop: Einkaufszentrum
+shop: mall
 ---

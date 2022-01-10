@@ -1,5 +1,5 @@
 ---
 title: "Chieni Supermarket"
 url: /nanyuki/chieni-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

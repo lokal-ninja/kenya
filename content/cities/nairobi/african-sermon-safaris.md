@@ -1,5 +1,5 @@
 ---
 title: "African Sermon Safaris"
 url: /nairobi/african-sermon-safaris/
-shop: Reisebüro
+shop: travel agency
 ---

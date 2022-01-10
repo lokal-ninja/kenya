@@ -1,5 +1,5 @@
 ---
 title: "Sirimon Cheese Factory"
 url: /mathagiro/sirimon-cheese-factory/
-shop: Käse
+shop: cheese
 ---

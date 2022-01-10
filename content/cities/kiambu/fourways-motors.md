@@ -1,5 +1,5 @@
 ---
 title: "Fourways Motors"
 url: /kiambu/fourways-motors/
-shop: Autohaus
+shop: car
 ---

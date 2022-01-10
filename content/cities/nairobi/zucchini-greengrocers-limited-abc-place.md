@@ -1,5 +1,5 @@
 ---
 title: "Zucchini Greengrocers Limited - ABC Place"
 url: /nairobi/zucchini-greengrocers-limited-abc-place/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

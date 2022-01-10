@@ -1,5 +1,5 @@
 ---
 title: "Leestar"
 url: /nairobi/leestar/
-shop: Supermarkt
+shop: supermarket
 ---

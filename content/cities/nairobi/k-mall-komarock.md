@@ -1,5 +1,5 @@
 ---
 title: "K-Mall Komarock"
 url: /nairobi/k-mall-komarock/
-shop: Einkaufszentrum
+shop: mall
 ---

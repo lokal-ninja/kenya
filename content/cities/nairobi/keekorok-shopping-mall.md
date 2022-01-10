@@ -1,5 +1,5 @@
 ---
 title: "Keekorok Shopping Mall"
 url: /nairobi/keekorok-shopping-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

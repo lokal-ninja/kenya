@@ -1,5 +1,5 @@
 ---
 title: "Porsche"
 url: /nairobi/porsche/
-shop: Autohaus
+shop: car
 ---

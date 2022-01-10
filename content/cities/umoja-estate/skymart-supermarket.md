@@ -1,5 +1,5 @@
 ---
 title: "Skymart Supermarket"
 url: /umoja-estate/skymart-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

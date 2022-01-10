@@ -1,5 +1,5 @@
 ---
 title: "Roverland Autocare Services"
 url: /nairobi/roverland-autocare-services/
-shop: Autowerkstatt
+shop: car repair
 ---

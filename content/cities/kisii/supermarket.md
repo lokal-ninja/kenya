@@ -1,5 +1,5 @@
 ---
 title: "Supermarket"
 url: /kisii/supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

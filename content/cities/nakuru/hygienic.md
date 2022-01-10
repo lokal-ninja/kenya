@@ -1,5 +1,5 @@
 ---
 title: "Hygienic"
 url: /nakuru/hygienic/
-shop: Supermarkt
+shop: supermarket
 ---

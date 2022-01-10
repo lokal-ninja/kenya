@@ -1,5 +1,5 @@
 ---
 title: "Uchumi"
 url: /nairobi/uchumi/
-shop: Supermarkt
+shop: supermarket
 ---

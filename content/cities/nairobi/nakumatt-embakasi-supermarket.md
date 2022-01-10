@@ -1,5 +1,5 @@
 ---
 title: "Nakumatt Embakasi Supermarket"
 url: /nairobi/nakumatt-embakasi-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

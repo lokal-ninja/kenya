@@ -1,5 +1,5 @@
 ---
 title: "Capital Hill Motors"
 url: /nairobi/capital-hill-motors/
-shop: Autohaus
+shop: car
 ---

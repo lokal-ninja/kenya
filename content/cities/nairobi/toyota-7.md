@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /nairobi/toyota-7/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tusky'S Magic Express"
 url: /nairobi/tuskys-magic-express/
-shop: Supermarkt
+shop: supermarket
 ---

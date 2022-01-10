@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /nairobi/samsung/
-shop: Handy
+shop: mobile phone
 ---

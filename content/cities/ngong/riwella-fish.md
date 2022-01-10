@@ -1,5 +1,5 @@
 ---
 title: "Riwella Fish"
 url: /ngong/riwella-fish/
-shop: Fisch
+shop: seafood
 ---

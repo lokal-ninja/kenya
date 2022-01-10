@@ -1,5 +1,5 @@
 ---
 title: "Hill Mart Supermarket"
 url: /nairobi/hill-mart-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

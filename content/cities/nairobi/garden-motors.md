@@ -1,5 +1,5 @@
 ---
 title: "Garden Motors"
 url: /nairobi/garden-motors/
-shop: Autohaus
+shop: car
 ---

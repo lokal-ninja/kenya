@@ -1,5 +1,5 @@
 ---
 title: "Masai market"
 url: /nairobi/masai-market/
-shop: Andenken
+shop: gift
 ---

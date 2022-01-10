@@ -1,5 +1,5 @@
 ---
 title: "Elburgon Mattresses"
 url: /elburgon/elburgon-mattresses/
-shop: Supermarkt
+shop: supermarket
 ---

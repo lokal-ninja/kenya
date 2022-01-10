@@ -1,5 +1,5 @@
 ---
 title: "Smattkar Motors"
 url: /eldoret/smattkar-motors/
-shop: Autohaus
+shop: car
 ---

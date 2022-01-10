@@ -1,5 +1,5 @@
 ---
 title: "Kolani Village"
 url: /nairobi/kolani-village/
-shop: Supermarkt
+shop: supermarket
 ---

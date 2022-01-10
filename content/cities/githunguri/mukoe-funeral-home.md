@@ -1,5 +1,5 @@
 ---
 title: "Mukoe Funeral Home"
 url: /githunguri/mukoe-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

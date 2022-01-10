@@ -1,5 +1,5 @@
 ---
 title: "Naivas Likoni"
 url: /mombasa/naivas-likoni/
-shop: Supermarkt
+shop: supermarket
 ---

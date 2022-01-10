@@ -1,5 +1,5 @@
 ---
 title: "Sammart Supermarket"
 url: /webuye/sammart-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

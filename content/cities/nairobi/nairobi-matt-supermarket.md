@@ -1,5 +1,5 @@
 ---
 title: "Nairobi Matt Supermarket"
 url: /nairobi/nairobi-matt-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

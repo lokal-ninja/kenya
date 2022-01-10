@@ -1,5 +1,5 @@
 ---
 title: "Alpha Motors"
 url: /nairobi/alpha-motors/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Basmarkt Supermarket"
 url: /marsabit/basmarkt-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

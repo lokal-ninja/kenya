@@ -1,5 +1,5 @@
 ---
 title: "Covenant Tours Africa"
 url: /nairobi/covenant-tours-africa/
-shop: Reisebüro
+shop: travel agency
 ---

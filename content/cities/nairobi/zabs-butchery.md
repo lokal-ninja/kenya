@@ -1,5 +1,5 @@
 ---
 title: "Zabs Butchery"
 url: /nairobi/zabs-butchery/
-shop: Metzgerei
+shop: butcher
 ---

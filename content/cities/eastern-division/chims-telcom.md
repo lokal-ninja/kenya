@@ -1,5 +1,5 @@
 ---
 title: "Chims Telcom"
 url: /eastern-division/chims-telcom/
-shop: Getränke
+shop: beverages
 ---

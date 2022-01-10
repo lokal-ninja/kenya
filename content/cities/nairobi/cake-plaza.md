@@ -1,5 +1,5 @@
 ---
 title: "Cake Plaza"
 url: /nairobi/cake-plaza/
-shop: Konditorei
+shop: pastry
 ---

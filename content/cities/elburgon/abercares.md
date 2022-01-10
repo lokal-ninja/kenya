@@ -1,5 +1,5 @@
 ---
 title: "Abercares"
 url: /elburgon/abercares/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dana"
 url: /bomet/dana/
-shop: Supermarkt
+shop: supermarket
 ---

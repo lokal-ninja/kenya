@@ -1,5 +1,5 @@
 ---
 title: "Dr. Mattress - ABC Place"
 url: /nairobi/dr-mattress-abc-place/
-shop: Betten
+shop: bed
 ---

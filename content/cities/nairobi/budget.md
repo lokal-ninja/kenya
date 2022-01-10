@@ -1,5 +1,5 @@
 ---
 title: "Budget"
 url: /nairobi/budget/
-shop: Supermarkt
+shop: supermarket
 ---

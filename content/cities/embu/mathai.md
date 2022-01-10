@@ -1,5 +1,5 @@
 ---
 title: "Mathai"
 url: /embu/mathai/
-shop: Supermarkt
+shop: supermarket
 ---

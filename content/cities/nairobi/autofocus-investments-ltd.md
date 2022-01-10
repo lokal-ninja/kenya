@@ -1,5 +1,5 @@
 ---
 title: "Autofocus Investments Ltd"
 url: /nairobi/autofocus-investments-ltd/
-shop: Autohaus
+shop: car
 ---

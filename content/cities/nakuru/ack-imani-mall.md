@@ -1,5 +1,5 @@
 ---
 title: "ACK Imani Mall"
 url: /nakuru/ack-imani-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

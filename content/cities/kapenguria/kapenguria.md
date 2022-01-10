@@ -1,5 +1,5 @@
 ---
 title: "Kapenguria"
 url: /kapenguria/kapenguria/
-shop: Supermarkt
+shop: supermarket
 ---

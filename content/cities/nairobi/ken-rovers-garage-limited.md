@@ -1,5 +1,5 @@
 ---
 title: "Ken-Rovers Garage Limited"
 url: /nairobi/ken-rovers-garage-limited/
-shop: Autowerkstatt
+shop: car repair
 ---

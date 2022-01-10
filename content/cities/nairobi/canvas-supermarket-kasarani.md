@@ -1,5 +1,5 @@
 ---
 title: "Canvas Supermarket,Kasarani"
 url: /nairobi/canvas-supermarket-kasarani/
-shop: Supermarkt
+shop: supermarket
 ---

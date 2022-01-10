@@ -1,5 +1,5 @@
 ---
 title: "Karen Auto Mart"
 url: /nairobi/karen-auto-mart/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tuskys"
 url: /malindi/tuskys/
-shop: Supermarkt
+shop: supermarket
 ---

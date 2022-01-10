@@ -1,5 +1,5 @@
 ---
 title: "Naivas Supermarket Nyeri"
 url: /nyeri/naivas-supermarket-nyeri/
-shop: Supermarkt
+shop: supermarket
 ---

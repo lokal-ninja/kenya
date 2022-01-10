@@ -1,5 +1,5 @@
 ---
 title: "The Junction Mall"
 url: /nairobi/the-junction-mall/
-shop: Einkaufszentrum
+shop: mall
 ---
