@@ -1,6 +1,6 @@
 ---
 title: Wangige
 url: /wangige/
-latitude: -1.221
-longitude: 36.712
+latitude: -1.22
+longitude: 36.713
 ---
