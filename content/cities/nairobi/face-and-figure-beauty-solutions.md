@@ -1,5 +1,5 @@
 ---
 title: "Face and Figure Beauty Solutions"
-url: /syokimau/face-and-figure-beauty-solutions/
+url: /nairobi/face-and-figure-beauty-solutions/
 shop: beauty
 ---
