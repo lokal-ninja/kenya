@@ -1,6 +1,6 @@
 ---
 title: Kibwezi
 url: /kibwezi/
-latitude: -2.334
-longitude: 37.878
+latitude: -2.411
+longitude: 37.964
 ---
