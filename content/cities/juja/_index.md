@@ -1,6 +1,6 @@
 ---
-title: juja
+title: Juja
 url: /juja/
-latitude: -1.105
+latitude: -1.108
 longitude: 37.014
 ---
