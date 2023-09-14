@@ -1,5 +1,5 @@
 ---
 title: "Bata"
-url: /nairobi/bata/
+url: /nairobi/bata-tom-mboya-street/
 shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chandarana Supermarket"
-url: /nairobi/chandarana-supermarket/
+url: /nairobi/chandarana-supermarket-ngara-road/
 shop: supermarket
 ---

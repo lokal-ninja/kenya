@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
-url: /nairobi/samsung/
+url: /nairobi/samsung-waiyaki-way/
 shop: electronics
 ---

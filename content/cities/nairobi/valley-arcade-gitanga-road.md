@@ -1,5 +1,5 @@
 ---
 title: "Valley Arcade"
-url: /nairobi/valley-arcade/
+url: /nairobi/valley-arcade-gitanga-road/
 shop: mall
 ---

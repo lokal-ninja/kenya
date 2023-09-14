@@ -1,5 +1,5 @@
 ---
 title: "Eastmatt"
-url: /nairobi/eastmatt/
+url: /nairobi/eastmatt-river-road/
 shop: supermarket
 ---

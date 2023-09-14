@@ -1,5 +1,5 @@
 ---
 title: "Bata"
-url: /kiambu/bata/
+url: /kiambu/bata-kiambu-road/
 shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
-url: /nairobi/samsung/
+url: /nairobi/samsung-gitanga-road/
 shop: mobile phone
 ---

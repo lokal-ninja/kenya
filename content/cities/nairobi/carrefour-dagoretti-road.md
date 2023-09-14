@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
-url: /nairobi/carrefour/
+url: /nairobi/carrefour-dagoretti-road/
 shop: supermarket
 ---

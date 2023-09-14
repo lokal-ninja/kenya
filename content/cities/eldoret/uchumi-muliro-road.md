@@ -1,5 +1,5 @@
 ---
 title: "Uchumi"
-url: /eldoret/uchumi/
+url: /eldoret/uchumi-muliro-road/
 shop: supermarket
 ---

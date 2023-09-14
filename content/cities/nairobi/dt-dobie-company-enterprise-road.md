@@ -1,5 +1,5 @@
 ---
 title: "DT Dobie Company"
-url: /nairobi/dt-dobie-company/
+url: /nairobi/dt-dobie-company-enterprise-road/
 shop: car
 ---
