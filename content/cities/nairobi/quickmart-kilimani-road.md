@@ -1,5 +1,5 @@
 ---
 title: "QuickMart"
-url: /nairobi/quickmart/
+url: /nairobi/quickmart-kilimani-road/
 shop: supermarket
 ---
