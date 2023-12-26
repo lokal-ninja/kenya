@@ -1,6 +1,6 @@
 ---
 title: Kisumu
 url: /kisumu/
-latitude: -0.098
-longitude: 34.751
+latitude: -0.104
+longitude: 34.753
 ---
