@@ -1,5 +1,5 @@
 ---
-title: "Quickmart"
+title: "QuickMart"
 url: /mtwapa/quickmart/
 shop: supermarket
 ---

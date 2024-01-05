@@ -1,5 +1,5 @@
 ---
 title: "QuickMart"
-url: /nairobi/quickmart-langata-road/
+url: /nairobi/quickmart-waiyaki-way/
 shop: supermarket
 ---

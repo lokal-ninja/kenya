@@ -1,6 +1,6 @@
 ---
 title: Narok
 url: /narok/
-latitude: -1.091
-longitude: 35.872
+latitude: -1.089
+longitude: 35.869
 ---
