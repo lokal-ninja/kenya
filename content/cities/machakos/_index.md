@@ -1,6 +1,6 @@
 ---
 title: Machakos
 url: /machakos/
-latitude: -1.516
-longitude: 37.264
+latitude: -1.538
+longitude: 37.183
 ---
