@@ -1,6 +1,6 @@
 ---
 title: Bomet
 url: /bomet/
-latitude: -0.839
-longitude: 35.357
+latitude: -0.78
+longitude: 35.341
 ---
