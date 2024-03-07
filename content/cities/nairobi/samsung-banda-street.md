@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
-url: /nairobi/samsung-mpaka-road/
+url: /nairobi/samsung-banda-street/
 shop: electronics
 ---
