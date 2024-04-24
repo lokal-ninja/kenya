@@ -1,6 +1,6 @@
 ---
 title: Wundanyi
 url: /wundanyi/
-latitude: -3.404
-longitude: 38.366
+latitude: -3.405
+longitude: 38.365
 ---
