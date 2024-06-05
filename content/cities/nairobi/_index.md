@@ -1,6 +1,6 @@
 ---
 title: Nairobi
 url: /nairobi/
-latitude: -1.328
-longitude: 36.87
+latitude: -1.224
+longitude: 36.801
 ---
