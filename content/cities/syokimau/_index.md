@@ -1,6 +1,6 @@
 ---
 title: Syokimau
 url: /syokimau/
-latitude: -1.376
-longitude: 36.923
+latitude: -1.371
+longitude: 36.92
 ---
