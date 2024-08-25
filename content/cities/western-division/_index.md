@@ -1,6 +1,6 @@
 ---
 title: Western Division
 url: /western-division/
-latitude: 0.466
-longitude: 34.097
+latitude: 0.469
+longitude: 34.09
 ---
