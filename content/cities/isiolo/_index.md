@@ -1,6 +1,6 @@
 ---
 title: Isiolo
 url: /isiolo/
-latitude: 0.351
-longitude: 37.584
+latitude: 0.352
+longitude: 37.583
 ---
