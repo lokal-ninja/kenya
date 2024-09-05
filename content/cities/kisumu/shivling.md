@@ -1,5 +1,5 @@
 ---
 title: "Shivling"
 url: /kisumu/shivling/
-shop: supermarket
+shop: Supermarkt
 ---

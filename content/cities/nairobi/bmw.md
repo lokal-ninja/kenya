@@ -1,5 +1,5 @@
 ---
 title: "BMW"
 url: /nairobi/bmw/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "UCHUMI"
 url: /eldoret/uchumi/
-shop: supermarket
+shop: Supermarkt
 ---

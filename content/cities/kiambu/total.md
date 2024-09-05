@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /kiambu/total/
-shop: convenience
+shop: Lebensmittel
 ---

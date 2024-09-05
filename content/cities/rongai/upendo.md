@@ -1,5 +1,5 @@
 ---
 title: "Upendo"
 url: /rongai/upendo/
-shop: mall
+shop: Einkaufszentrum
 ---

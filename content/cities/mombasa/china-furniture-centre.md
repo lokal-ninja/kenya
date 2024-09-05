@@ -1,5 +1,5 @@
 ---
 title: "China Furniture Centre"
 url: /mombasa/china-furniture-centre/
-shop: furniture
+shop: Möbel
 ---

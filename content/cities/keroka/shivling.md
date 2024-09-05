@@ -1,5 +1,5 @@
 ---
 title: "Shivling"
 url: /keroka/shivling/
-shop: supermarket
+shop: Supermarkt
 ---

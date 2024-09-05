@@ -1,5 +1,5 @@
 ---
 title: "Choppies Supermarket Kiambu"
 url: /kiambu/choppies-supermarket-kiambu/
-shop: supermarket
+shop: Supermarkt
 ---

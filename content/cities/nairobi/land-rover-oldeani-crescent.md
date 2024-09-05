@@ -1,5 +1,5 @@
 ---
 title: "Land Rover"
 url: /nairobi/land-rover-oldeani-crescent/
-shop: car
+shop: Autohaus
 ---

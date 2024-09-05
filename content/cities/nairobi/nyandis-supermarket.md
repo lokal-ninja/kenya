@@ -1,5 +1,5 @@
 ---
 title: "Nyandis Supermarket"
 url: /nairobi/nyandis-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

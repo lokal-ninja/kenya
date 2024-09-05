@@ -1,5 +1,5 @@
 ---
 title: "Bonjour"
 url: /nairobi/bonjour/
-shop: supermarket
+shop: Supermarkt
 ---

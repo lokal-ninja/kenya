@@ -1,5 +1,5 @@
 ---
 title: "Naivas"
 url: /embu/naivas/
-shop: supermarket
+shop: Supermarkt
 ---

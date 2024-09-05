@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /nairobi/carrefour-trm-drive/
-shop: supermarket
+shop: Supermarkt
 ---

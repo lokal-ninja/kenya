@@ -1,5 +1,5 @@
 ---
 title: "Chabera Coffee Store"
 url: /nyamira/chabera-coffee-store/
-shop: coffee
+shop: Kaffee
 ---

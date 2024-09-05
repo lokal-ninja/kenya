@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /nairobi/toyota-lusaka-road/
-shop: car
+shop: Autohaus
 ---

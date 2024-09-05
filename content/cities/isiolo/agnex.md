@@ -1,5 +1,5 @@
 ---
 title: "Agnex"
 url: /isiolo/agnex/
-shop: supermarket
+shop: Supermarkt
 ---

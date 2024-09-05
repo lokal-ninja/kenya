@@ -1,5 +1,5 @@
 ---
 title: "Maisha Heights"
 url: /thika/maisha-heights/
-shop: mall
+shop: Einkaufszentrum
 ---

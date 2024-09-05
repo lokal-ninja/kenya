@@ -1,5 +1,5 @@
 ---
 title: "Tuskys Oltalet Mall"
 url: /narok/tuskys-oltalet-mall/
-shop: supermarket
+shop: Supermarkt
 ---

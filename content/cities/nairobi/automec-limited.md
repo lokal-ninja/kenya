@@ -1,5 +1,5 @@
 ---
 title: "Automec Limited"
 url: /nairobi/automec-limited/
-shop: car repair
+shop: Autowerkstatt
 ---

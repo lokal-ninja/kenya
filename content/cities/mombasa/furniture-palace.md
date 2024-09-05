@@ -1,5 +1,5 @@
 ---
 title: "Furniture Palace"
 url: /mombasa/furniture-palace/
-shop: furniture
+shop: Möbel
 ---

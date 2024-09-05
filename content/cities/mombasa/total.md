@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /mombasa/total/
-shop: convenience
+shop: Lebensmittel
 ---

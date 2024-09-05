@@ -1,5 +1,5 @@
 ---
 title: "Otomatt Supermarket Ruai"
 url: /nairobi/otomatt-supermarket-ruai/
-shop: supermarket
+shop: Supermarkt
 ---

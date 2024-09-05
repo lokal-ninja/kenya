@@ -1,5 +1,5 @@
 ---
 title: "Mbandu Complex"
 url: /nairobi/mbandu-complex/
-shop: mall
+shop: Einkaufszentrum
 ---

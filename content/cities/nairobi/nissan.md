@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /nairobi/nissan/
-shop: car
+shop: Autohaus
 ---

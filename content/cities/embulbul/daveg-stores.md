@@ -1,5 +1,5 @@
 ---
 title: "Daveg Stores"
 url: /embulbul/daveg-stores/
-shop: supermarket
+shop: Supermarkt
 ---

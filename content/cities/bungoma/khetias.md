@@ -1,5 +1,5 @@
 ---
 title: "Khetias"
 url: /bungoma/khetias/
-shop: supermarket
+shop: Supermarkt
 ---

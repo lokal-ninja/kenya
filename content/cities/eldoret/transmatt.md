@@ -1,5 +1,5 @@
 ---
 title: "Transmatt"
 url: /eldoret/transmatt/
-shop: supermarket
+shop: Supermarkt
 ---

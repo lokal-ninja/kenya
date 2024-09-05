@@ -1,5 +1,5 @@
 ---
 title: "Jeska Supermarket"
 url: /umoja-estate/jeska-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

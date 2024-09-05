@@ -1,5 +1,5 @@
 ---
 title: "Amakara"
 url: /nyamira/amakara/
-shop: mall
+shop: Einkaufszentrum
 ---

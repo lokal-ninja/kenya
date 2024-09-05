@@ -1,5 +1,5 @@
 ---
 title: "Autobarn Ltd"
 url: /nairobi/autobarn-ltd/
-shop: car
+shop: Autohaus
 ---

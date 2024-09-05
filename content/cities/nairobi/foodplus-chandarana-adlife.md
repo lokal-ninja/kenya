@@ -1,5 +1,5 @@
 ---
 title: "Foodplus Chandarana Adlife"
 url: /nairobi/foodplus-chandarana-adlife/
-shop: supermarket
+shop: Supermarkt
 ---

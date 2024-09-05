@@ -1,5 +1,5 @@
 ---
 title: "Gigiri Supermarket"
 url: /nairobi/gigiri-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

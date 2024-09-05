@@ -1,5 +1,5 @@
 ---
 title: "Wale Investments"
 url: /malaba-town-council/wale-investments/
-shop: kiosk
+shop: Kiosk
 ---

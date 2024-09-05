@@ -1,5 +1,5 @@
 ---
 title: "Kenya Wildlife Trails Ltd"
 url: /nairobi/kenya-wildlife-trails-ltd/
-shop: travel agency
+shop: Reisebüro
 ---

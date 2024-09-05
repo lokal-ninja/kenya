@@ -1,5 +1,5 @@
 ---
 title: "Cute Girl"
 url: /ruiru-kenya/cute-girl/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Game Stores Kenya"
 url: /nairobi/game-stores-kenya-langata-road/
-shop: video games
+shop: Videospiele
 ---

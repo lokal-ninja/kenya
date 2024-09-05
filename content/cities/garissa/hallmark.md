@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /garissa/hallmark/
-shop: supermarket
+shop: Supermarkt
 ---

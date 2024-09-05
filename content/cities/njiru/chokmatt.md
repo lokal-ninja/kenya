@@ -1,5 +1,5 @@
 ---
 title: "Chokmatt"
 url: /njiru/chokmatt/
-shop: supermarket
+shop: Supermarkt
 ---

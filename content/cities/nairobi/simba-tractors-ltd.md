@@ -1,5 +1,5 @@
 ---
 title: "Simba Tractors Ltd."
 url: /nairobi/simba-tractors-ltd/
-shop: car
+shop: Autohaus
 ---
