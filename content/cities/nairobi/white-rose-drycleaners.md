@@ -1,5 +1,5 @@
 ---
 title: "White Rose Drycleaners"
 url: /nairobi/white-rose-drycleaners/
-shop: Wäscherei
+shop: laundry
 ---

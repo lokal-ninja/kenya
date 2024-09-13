@@ -1,5 +1,5 @@
 ---
 title: "Marvel Hardware"
 url: /nairobi/marvel-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

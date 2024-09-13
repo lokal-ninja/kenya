@@ -1,5 +1,5 @@
 ---
 title: "Shamas Auto Spares"
 url: /nairobi/shamas-auto-spares/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiguli"
 url: /western-division/kiguli/
-shop: Elektronik
+shop: electronics
 ---

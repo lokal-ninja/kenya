@@ -1,5 +1,5 @@
 ---
 title: "Halal"
 url: /mtwapa/halal/
-shop: Supermarkt
+shop: supermarket
 ---

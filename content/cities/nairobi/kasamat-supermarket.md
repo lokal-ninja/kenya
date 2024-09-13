@@ -1,5 +1,5 @@
 ---
 title: "Kasamat Supermarket"
 url: /nairobi/kasamat-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

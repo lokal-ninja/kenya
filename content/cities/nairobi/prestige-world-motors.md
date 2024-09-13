@@ -1,5 +1,5 @@
 ---
 title: "Prestige World Motors"
 url: /nairobi/prestige-world-motors/
-shop: Autohaus
+shop: car
 ---

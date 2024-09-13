@@ -1,5 +1,5 @@
 ---
 title: "Rimo Investment"
 url: /western-division/rimo-investment/
-shop: Kiosk
+shop: kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safaricom"
 url: /wundanyi/safaricom/
-shop: Handy
+shop: mobile phone
 ---

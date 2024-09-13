@@ -1,5 +1,5 @@
 ---
 title: "QuickMart"
 url: /kisumu/quickmart-awour-otieno-road/
-shop: Supermarkt
+shop: supermarket
 ---

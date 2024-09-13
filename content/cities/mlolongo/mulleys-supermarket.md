@@ -1,5 +1,5 @@
 ---
 title: "Mulley's Supermarket"
 url: /mlolongo/mulleys-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

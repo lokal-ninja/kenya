@@ -1,5 +1,5 @@
 ---
 title: "Holden Mall"
 url: /kakamega/holden-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CTM"
 url: /nairobi/ctm/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Naivas Supermarket (Zion)"
 url: /eldoret/naivas-supermarket-zion/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chawaka"
 url: /nakuru/chawaka/
-shop: Supermarkt
+shop: supermarket
 ---

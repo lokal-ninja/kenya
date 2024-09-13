@@ -1,5 +1,5 @@
 ---
 title: "Concorde"
 url: /nairobi/concorde/
-shop: Autowerkstatt
+shop: car repair
 ---

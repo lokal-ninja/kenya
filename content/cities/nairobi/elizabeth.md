@@ -1,5 +1,5 @@
 ---
 title: "Elizabeth"
 url: /nairobi/elizabeth/
-shop: Spirituosen
+shop: alcohol
 ---

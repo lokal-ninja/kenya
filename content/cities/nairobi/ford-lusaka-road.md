@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /nairobi/ford-lusaka-road/
-shop: Autohaus
+shop: car
 ---

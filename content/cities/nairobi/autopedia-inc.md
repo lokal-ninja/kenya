@@ -1,5 +1,5 @@
 ---
 title: "Autopedia Inc"
 url: /nairobi/autopedia-inc/
-shop: Autohaus
+shop: car
 ---

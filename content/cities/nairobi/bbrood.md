@@ -1,5 +1,5 @@
 ---
 title: "BBROOD"
 url: /nairobi/bbrood/
-shop: Bäckerei
+shop: bakery
 ---

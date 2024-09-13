@@ -1,5 +1,5 @@
 ---
 title: "Jane and Sons"
 url: /western-division/jane-and-sons/
-shop: Kiosk
+shop: kiosk
 ---

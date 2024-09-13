@@ -1,5 +1,5 @@
 ---
 title: "Lake Basin Mall"
 url: /kisumu/lake-basin-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

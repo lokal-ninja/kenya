@@ -1,5 +1,5 @@
 ---
 title: "Naipa Supermarket"
 url: /lodwar/naipa-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

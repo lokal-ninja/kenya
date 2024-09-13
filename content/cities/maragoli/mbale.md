@@ -1,5 +1,5 @@
 ---
 title: "Mbale"
 url: /maragoli/mbale/
-shop: Supermarkt
+shop: supermarket
 ---

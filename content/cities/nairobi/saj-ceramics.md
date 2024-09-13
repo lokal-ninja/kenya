@@ -1,5 +1,5 @@
 ---
 title: "Saj Ceramics"
 url: /nairobi/saj-ceramics/
-shop: Fliesen
+shop: tiles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sacha Supermarket"
 url: /nairobi/sacha-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

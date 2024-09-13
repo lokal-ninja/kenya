@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /nairobi/toyota-uhuru-highway-2/
-shop: Autowerkstatt
+shop: car repair
 ---

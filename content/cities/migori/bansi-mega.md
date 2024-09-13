@@ -1,5 +1,5 @@
 ---
 title: "BANSI MEGA"
 url: /migori/bansi-mega/
-shop: Supermarkt
+shop: supermarket
 ---

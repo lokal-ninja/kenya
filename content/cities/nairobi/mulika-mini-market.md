@@ -1,5 +1,5 @@
 ---
 title: "Mulika Mini Market"
 url: /nairobi/mulika-mini-market/
-shop: Supermarkt
+shop: supermarket
 ---

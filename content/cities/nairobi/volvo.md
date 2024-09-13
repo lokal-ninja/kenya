@@ -1,5 +1,5 @@
 ---
 title: "Volvo"
 url: /nairobi/volvo/
-shop: Autohaus
+shop: car
 ---

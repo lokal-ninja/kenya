@@ -1,5 +1,5 @@
 ---
 title: "MPPS ACCESSORIES"
 url: /nairobi/mpps-accessories/
-shop: Autowerkstatt
+shop: car repair
 ---

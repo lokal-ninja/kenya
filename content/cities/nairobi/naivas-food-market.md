@@ -1,5 +1,5 @@
 ---
 title: "Naivas Food Market"
 url: /nairobi/naivas-food-market/
-shop: Supermarkt
+shop: supermarket
 ---

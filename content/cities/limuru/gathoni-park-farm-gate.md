@@ -1,5 +1,5 @@
 ---
 title: "Gathoni Park Farm Gate"
 url: /limuru/gathoni-park-farm-gate/
-shop: Tee
+shop: tea
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shivling"
 url: /kericho/shivling/
-shop: Supermarkt
+shop: supermarket
 ---

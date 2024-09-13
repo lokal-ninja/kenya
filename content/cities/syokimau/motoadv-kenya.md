@@ -1,5 +1,5 @@
 ---
 title: "MotoADV Kenya"
 url: /syokimau/motoadv-kenya/
-shop: Motorrad
+shop: motorcycle
 ---

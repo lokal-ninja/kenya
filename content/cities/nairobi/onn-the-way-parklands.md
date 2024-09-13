@@ -1,5 +1,5 @@
 ---
 title: "Onn the way Parklands"
 url: /nairobi/onn-the-way-parklands/
-shop: Warenhaus
+shop: department store
 ---

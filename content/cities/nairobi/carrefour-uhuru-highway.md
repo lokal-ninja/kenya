@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /nairobi/carrefour-uhuru-highway/
-shop: Supermarkt
+shop: supermarket
 ---

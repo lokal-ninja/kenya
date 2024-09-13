@@ -1,5 +1,5 @@
 ---
 title: "Sayen"
 url: /meru/sayen/
-shop: Supermarkt
+shop: supermarket
 ---

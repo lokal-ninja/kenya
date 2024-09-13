@@ -1,5 +1,5 @@
 ---
 title: "Tumaini Supermarket"
 url: /nairobi/tumaini-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gateway Mall"
 url: /nairobi/gateway-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

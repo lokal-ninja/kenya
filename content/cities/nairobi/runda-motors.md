@@ -1,5 +1,5 @@
 ---
 title: "Runda Motors"
 url: /nairobi/runda-motors/
-shop: Autohaus
+shop: car
 ---

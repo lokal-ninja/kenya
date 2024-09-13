@@ -1,5 +1,5 @@
 ---
 title: "Kiambu Mortuary"
 url: /kiambu/kiambu-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

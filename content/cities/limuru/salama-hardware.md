@@ -1,5 +1,5 @@
 ---
 title: "salama hardware"
 url: /limuru/salama-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

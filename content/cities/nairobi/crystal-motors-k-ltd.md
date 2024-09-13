@@ -1,5 +1,5 @@
 ---
 title: "Crystal Motors (K) Ltd"
 url: /nairobi/crystal-motors-k-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

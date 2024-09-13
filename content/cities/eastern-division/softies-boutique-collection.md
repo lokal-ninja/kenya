@@ -1,5 +1,5 @@
 ---
 title: "Softies Boutique Collection"
 url: /eastern-division/softies-boutique-collection/
-shop: Schuhe
+shop: shoes
 ---

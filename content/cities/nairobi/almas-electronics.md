@@ -1,5 +1,5 @@
 ---
 title: "Almas Electronics"
 url: /nairobi/almas-electronics/
-shop: Elektronik
+shop: electronics
 ---

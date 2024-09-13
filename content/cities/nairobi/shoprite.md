@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /nairobi/shoprite/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mafuko Bakery"
 url: /meru/mafuko-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Happy Valley Supermarket"
 url: /naivasha/happy-valley-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

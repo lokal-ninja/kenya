@@ -1,5 +1,5 @@
 ---
 title: "TCF ACCESSORIES"
 url: /nairobi/tcf-accessories/
-shop: Elektronik
+shop: electronics
 ---

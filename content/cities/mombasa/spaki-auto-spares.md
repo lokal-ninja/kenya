@@ -1,5 +1,5 @@
 ---
 title: "Spaki Auto Spares"
 url: /mombasa/spaki-auto-spares/
-shop: Autowerkstatt
+shop: car repair
 ---

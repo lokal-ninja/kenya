@@ -1,5 +1,5 @@
 ---
 title: "Cheki"
 url: /nairobi/cheki/
-shop: Autohaus
+shop: car
 ---

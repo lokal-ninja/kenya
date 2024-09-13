@@ -1,5 +1,5 @@
 ---
 title: "Daiga Autoworld"
 url: /nairobi/daiga-autoworld-ring-road/
-shop: Autohaus
+shop: car
 ---

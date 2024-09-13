@@ -1,5 +1,5 @@
 ---
 title: "Tee Tee Motors"
 url: /nairobi/tee-tee-motors/
-shop: Autohaus
+shop: car
 ---

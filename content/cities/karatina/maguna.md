@@ -1,5 +1,5 @@
 ---
 title: "Maguna"
 url: /karatina/maguna/
-shop: Supermarkt
+shop: supermarket
 ---

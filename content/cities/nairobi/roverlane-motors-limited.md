@@ -1,5 +1,5 @@
 ---
 title: "Roverlane Motors Limited"
 url: /nairobi/roverlane-motors-limited/
-shop: Autowerkstatt
+shop: car repair
 ---

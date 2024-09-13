@@ -1,5 +1,5 @@
 ---
 title: "Gilgil supermarket"
 url: /gilgil/gilgil-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Selfridges Supermarket"
 url: /wangige/selfridges-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

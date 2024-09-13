@@ -1,5 +1,5 @@
 ---
 title: "Pergas Tiles"
 url: /nairobi/pergas-tiles/
-shop: Fliesen
+shop: tiles
 ---

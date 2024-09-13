@@ -1,5 +1,5 @@
 ---
 title: "QuickMart"
 url: /kisumu/quickmart/
-shop: Supermarkt
+shop: supermarket
 ---

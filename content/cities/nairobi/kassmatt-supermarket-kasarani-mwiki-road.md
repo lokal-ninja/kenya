@@ -1,5 +1,5 @@
 ---
 title: "Kassmatt Supermarket"
 url: /nairobi/kassmatt-supermarket-kasarani-mwiki-road/
-shop: Supermarkt
+shop: supermarket
 ---

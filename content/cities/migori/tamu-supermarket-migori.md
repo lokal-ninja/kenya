@@ -1,5 +1,5 @@
 ---
 title: "Tamu Supermarket, Migori"
 url: /migori/tamu-supermarket-migori/
-shop: Supermarkt
+shop: supermarket
 ---

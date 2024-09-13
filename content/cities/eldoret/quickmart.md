@@ -1,5 +1,5 @@
 ---
 title: "QuickMart"
 url: /eldoret/quickmart/
-shop: Supermarkt
+shop: supermarket
 ---

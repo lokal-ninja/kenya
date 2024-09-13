@@ -1,5 +1,5 @@
 ---
 title: "Henry West Furniture"
 url: /nairobi/henry-west-furniture/
-shop: Möbel
+shop: furniture
 ---

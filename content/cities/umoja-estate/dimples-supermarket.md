@@ -1,5 +1,5 @@
 ---
 title: "Dimples Supermarket"
 url: /umoja-estate/dimples-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

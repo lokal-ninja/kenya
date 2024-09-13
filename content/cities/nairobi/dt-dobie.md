@@ -1,5 +1,5 @@
 ---
 title: "DT Dobie"
 url: /nairobi/dt-dobie/
-shop: Autowerkstatt
+shop: car repair
 ---

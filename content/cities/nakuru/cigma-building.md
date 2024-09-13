@@ -1,5 +1,5 @@
 ---
 title: "Cigma Building"
 url: /nakuru/cigma-building/
-shop: Einkaufszentrum
+shop: mall
 ---

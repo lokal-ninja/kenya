@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /mombasa/carrefour/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tukonet"
 url: /malaba-town-council/tukonet/
-shop: Elektronik
+shop: electronics
 ---

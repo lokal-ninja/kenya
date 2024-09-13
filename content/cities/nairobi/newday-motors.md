@@ -1,5 +1,5 @@
 ---
 title: "Newday Motors"
 url: /nairobi/newday-motors/
-shop: Autohaus
+shop: car
 ---

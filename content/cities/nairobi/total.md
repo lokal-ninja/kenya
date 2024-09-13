@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /nairobi/total/
-shop: Lebensmittel
+shop: convenience
 ---

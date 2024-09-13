@@ -1,5 +1,5 @@
 ---
 title: "Auto Village"
 url: /nairobi/auto-village/
-shop: Autowerkstatt
+shop: car repair
 ---

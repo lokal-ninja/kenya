@@ -1,5 +1,5 @@
 ---
 title: "Safaricom"
 url: /nairobi/safaricom/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taveta Shopping Mall"
 url: /nairobi/taveta-shopping-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

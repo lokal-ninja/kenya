@@ -1,5 +1,5 @@
 ---
 title: "AutoXpress Ltd - Thika"
 url: /thika/autoxpress-ltd-thika/
-shop: Reifen
+shop: tyres
 ---
