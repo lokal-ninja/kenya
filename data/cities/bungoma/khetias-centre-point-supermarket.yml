@@ -1,11 +1,11 @@
 id: 484464018
-type: way
+type: node
 latitude: 0.56863
 longitude: 34.55921
 postcode: ""
 city: Bungoma
 street: ""
-housenumber: 2
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

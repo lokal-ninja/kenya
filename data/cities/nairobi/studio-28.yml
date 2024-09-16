@@ -1,11 +1,11 @@
 id: 644474972
-type: way
+type: node
 latitude: -1.23614
 longitude: 36.77992
 postcode: ""
 city: Nairobi
-street: "Peponi Road"
-housenumber: 28
-phone: "+254 708 253 853"
+street: Peponi Road
+housenumber: "28"
+phone: +254 708 253 853
 opening_hours: ""
-website: "http://www.naturalhairjourney.co.ke/"
+website: http://www.naturalhairjourney.co.ke/

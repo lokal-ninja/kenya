@@ -1,11 +1,11 @@
 id: 123451919
-type: way
+type: node
 latitude: -1.28106
 longitude: 36.82493
 postcode: ""
 city: Nairobi
-street: "River Road"
-housenumber: 
+street: River Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

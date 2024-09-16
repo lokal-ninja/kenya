@@ -1,11 +1,11 @@
 id: 663223937
-type: way
+type: node
 latitude: -1.32845
 longitude: 36.88993
-postcode: "P.O.Box 18628-00500, Nairobi, Kenya,"
+postcode: P.O.Box 18628-00500, Nairobi, Kenya,
 city: Nairobi
-street: "Airport North Road"
-housenumber: 
+street: Airport North Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:30-22:00"
-website: "https://www.southfieldmall.co.ke/"
+opening_hours: Mo-Su 07:30-22:00
+website: https://www.southfieldmall.co.ke/

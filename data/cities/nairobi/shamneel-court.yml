@@ -1,11 +1,11 @@
 id: 553232281
-type: way
+type: node
 latitude: -1.26294
 longitude: 36.80417
 postcode: ""
 city: Nairobi
-street: "Muthithi Road"
-housenumber: 02
+street: Muthithi Road
+housenumber: "02"
 phone: ""
 opening_hours: ""
 website: ""

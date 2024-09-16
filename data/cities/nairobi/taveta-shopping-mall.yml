@@ -1,11 +1,11 @@
 id: 123242667
-type: way
+type: node
 latitude: -1.28303
 longitude: 36.82552
 postcode: ""
 city: Nairobi
-street: "Taveta Road"
-housenumber: 
+street: Taveta Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

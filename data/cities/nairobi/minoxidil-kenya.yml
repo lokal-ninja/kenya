@@ -1,11 +1,11 @@
 id: 1146451491
-type: way
+type: node
 latitude: -1.28275
 longitude: 36.82351
 postcode: "00100"
 city: Nairobi
-street: "Tom Mboya Street"
-housenumber: 
+street: Tom Mboya Street
+housenumber: ""
 phone: "+254112891224"
-opening_hours: "Mo-Sa 09:30-18:30"
-website: "https://minoxidilkenya.com"
+opening_hours: Mo-Sa 09:30-18:30
+website: https://minoxidilkenya.com

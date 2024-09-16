@@ -1,11 +1,11 @@
 id: 123256650
-type: way
+type: node
 latitude: -1.28493
 longitude: 36.83144
 postcode: ""
 city: Nairobi
-street: "Racecourse Road"
-housenumber: 
+street: Racecourse Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

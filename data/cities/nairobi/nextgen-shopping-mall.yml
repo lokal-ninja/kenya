@@ -1,11 +1,11 @@
 id: 456321428
-type: way
+type: node
 latitude: -1.32327
 longitude: 36.84368
 postcode: ""
 city: Nairobi
-street: "Mombasa Road"
-housenumber: 
+street: Mombasa Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

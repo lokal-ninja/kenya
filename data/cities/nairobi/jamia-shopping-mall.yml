@@ -1,11 +1,11 @@
 id: 123416466
-type: way
+type: node
 latitude: -1.28255
 longitude: 36.82101
 postcode: ""
 city: Nairobi
-street: "Tubman Lane"
-housenumber: 
+street: Tubman Lane
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""
