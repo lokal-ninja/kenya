@@ -1,6 +1,6 @@
 ---
 title: Kisii
 url: /kisii/
-latitude: -0.674
-longitude: 34.771
+latitude: -0.664
+longitude: 34.738
 ---
