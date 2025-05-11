@@ -1,6 +1,6 @@
 ---
 title: Kwale
 url: /kwale/
-latitude: -4.299
-longitude: 39.581
+latitude: -4.342
+longitude: 39.564
 ---
