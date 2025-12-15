@@ -1,5 +1,5 @@
 ---
-title: "ABEBO VEGEZ"
+title: "Abebo Vegez"
 url: /nairobi/abebo-vegez/
-shop: greengrocer
+shop: general
 ---

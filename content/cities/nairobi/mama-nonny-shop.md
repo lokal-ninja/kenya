@@ -1,5 +1,5 @@
 ---
-title: "MAMA NONNY SHOP"
+title: "Mama Nonny Shop"
 url: /nairobi/mama-nonny-shop/
-shop: kiosk
+shop: general
 ---
