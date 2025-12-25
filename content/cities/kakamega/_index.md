@@ -1,6 +1,6 @@
 ---
 title: Kakamega
 url: /kakamega/
-latitude: 0.283
-longitude: 34.749
+latitude: 0.29
+longitude: 34.757
 ---
