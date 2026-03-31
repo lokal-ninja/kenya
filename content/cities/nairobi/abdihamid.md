@@ -1,5 +1,5 @@
 ---
-title: "ABDIHAMID"
+title: "Abdihamid"
 url: /nairobi/abdihamid/
 shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bata"
-url: /nairobi/bata-taifa-road/
+url: /nairobi/bata-moi-avenue/
 shop: shoes
 ---
