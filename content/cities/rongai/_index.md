@@ -1,6 +1,6 @@
 ---
 title: Rongai
 url: /rongai/
-latitude: -1.396
-longitude: 36.737
+latitude: -1.373
+longitude: 36.721
 ---
