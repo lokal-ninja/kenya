@@ -1,6 +1,6 @@
 ---
 title: Mitaboni
 url: /mitaboni/
-latitude: -1.365
-longitude: 37.267
+latitude: -1.375
+longitude: 37.25
 ---
