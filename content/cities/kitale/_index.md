@@ -1,6 +1,6 @@
 ---
 title: Kitale
 url: /kitale/
-latitude: 1.02
-longitude: 35
+latitude: 1.017
+longitude: 35.003
 ---
