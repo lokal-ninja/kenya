@@ -1,6 +1,6 @@
 ---
 title: Mlolongo
 url: /mlolongo/
-latitude: -1.397
-longitude: 36.942
+latitude: -1.38
+longitude: 36.939
 ---
