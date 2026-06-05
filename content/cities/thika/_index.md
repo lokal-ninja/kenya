@@ -1,6 +1,6 @@
 ---
 title: Thika
 url: /thika/
-latitude: -1.125
-longitude: 37.005
+latitude: -1.039
+longitude: 37.072
 ---
