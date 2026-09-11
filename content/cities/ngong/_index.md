@@ -1,6 +1,6 @@
 ---
 title: Ngong
 url: /ngong/
-latitude: -1.355
-longitude: 36.658
+latitude: -1.342
+longitude: 36.666
 ---
