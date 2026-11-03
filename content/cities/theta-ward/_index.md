@@ -1,6 +1,6 @@
 ---
 title: Theta ward
 url: /theta-ward/
-latitude: -1.145
+latitude: -1.146
 longitude: 36.99
 ---
