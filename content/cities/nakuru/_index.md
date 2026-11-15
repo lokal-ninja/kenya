@@ -1,6 +1,6 @@
 ---
 title: Nakuru
 url: /nakuru/
-latitude: -0.29
-longitude: 36.051
+latitude: -0.28
+longitude: 36.052
 ---

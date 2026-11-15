@@ -1,5 +1,5 @@
 ---
 title: "Naivas"
-url: /embu/naivas-embu-nairobi-highway/
+url: /embu/naivas-embu-siakago-road/
 shop: supermarket
 ---
